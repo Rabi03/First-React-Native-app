@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "FirstApp",
+    "slug": "firstapp",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./app/assets/AppLogo.png",
+    "splash": {
+      "gif": "./app/assets/splash.gif",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.rabiislam.firstapp"
+    },
+    "description": "A marketplace for selling the stuff you don't need anymore."
+  }
+}

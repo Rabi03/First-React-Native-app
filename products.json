@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+       "title": "Blue Jacket For Sell",
+       "price": "$100",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjDNVr-KdY5ugpijywNiD_5BnPz835nTp3JA&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "title": "Couch in great Condition",
+        "price": "$1000",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDY1pysKvRw-noxDg6sxZ6qaT7Ms8ld0rMJQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+       "title": "Red shoes For Sell",
+       "price": "$300",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71iS7jKcpZL._UL1500_.jpg"
+    },
+    {
+        "id": 4,
+       "title": "iPhone 11 pro in best condition",
+       "price": "$700",
+        "image":"https://cdn.shopify.com/s/files/1/0149/8032/products/Sheath-Black-11-Pro_4ecc0108-4cf6-45ef-a52a-fccefd1a964e.jpg?v=1590096417"
+    }
+]
+
+
